@@ -20,10 +20,6 @@
 
 ![DORAZI0423's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorazi0423&show_icons=true&count_private=true&hide=prs&theme=solarized-light)
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&layout=compact&theme=solarized-light)
-
 ---
 
 ## 🌍 Let's Connect
@@ -36,7 +32,7 @@
 
 ## 🔥 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&langs_count=5&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&langs_count=5&theme=solarized-light)
 
 
 ---
