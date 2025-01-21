@@ -1,7 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&&color=0:BFECFF,25:CDC1FF,50:FFF6E3,100:FFCCEA&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=B99470" />
-
-# 👋 Hello, I'm DORAZI0423!
-
 ![DORAZI0423 GitHub Banner](https://capsule-render.vercel.app/api?type=venom&&color=0:BFECFF,25:CDC1FF,50:FFF6E3,100:FFCCEA&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=B99470)
 
 ## 🚀 About Me
