@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=Venom
+&color=gradient&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80" />
 
 
 <!--
