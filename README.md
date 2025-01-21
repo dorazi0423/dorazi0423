@@ -19,7 +19,7 @@
 ---
 
 ## 🔧 Projects
-- [Project 1: 연극추천 웹사이트](https://github.com/dorazi0423/web-app) 
+- [Project 1: 연극추천 웹사이트](https://dorazi0423.github.io/PlayFinder/) 
   ⭐skill: JavaScript, HTML, CSS, bootstrap
 
 ---
