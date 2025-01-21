@@ -1,4 +1,4 @@
-![DORAZI0423 GitHub Banner](https://capsule-render.vercel.app/api?type=slice&&color=0:FFE6E6,25:E1AFD1,50:AD88C6,100:7469B6&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=0:09122C,100:FBF5E5)
+![DORAZI0423 GitHub Banner](https://capsule-render.vercel.app/api?type=waving&&color=0:F6F5F2,25:F0EBE3,50:F3D0D7,100:FFEFEF&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=9F8383)
 
 ## 🚀 About Me
 - **프론트엔드 개발자**
