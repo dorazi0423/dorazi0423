@@ -2,16 +2,19 @@
 
 ## 🚀 About Me
 - 🔭 프론트엔드 개발자
+---
   
 ## 📘 Skills
 - **Languages**: JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React, Node.js, Express, Django, Flutter
 - **Tools**: Git, GitHub, VS Code, Figma, Postman, Docker
+---
 
 ## 🔧 Projects
 - [Project 1: 연극추천 웹사이트](https://github.com/dorazi0423/web-app) 
   ⭐skill: JavaScript, HTML, CSS, bootstrap
 
+---
 
 ## 📈 GitHub Stats
 
@@ -21,23 +24,20 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&layout=compact&theme=blue-green)
 
+---
+
 ## 🌍 Let's Connect
 
 - **LinkedIn**: [DORAZI0423 on LinkedIn](https://www.linkedin.com/in/your-profile/)
 - **Twitter**: [@dorazi0423](https://twitter.com/dorazi0423)
 - **Blog**: [dorazi0423 Blog](https://your-blog.com)
 
+---
+
 ## 🔥 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&langs_count=5&theme=blue-green)
 
----
-
-## 💡 Fun Facts
-
-- I love experimenting with new tech stacks!
-- I enjoy reading tech articles and learning from online communities.
-- My favorite programming language is **JavaScript** because of its flexibility.
 
 ---
 
