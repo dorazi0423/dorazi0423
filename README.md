@@ -38,14 +38,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&langs_count=5&theme=solarized-light)
 
 
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&langs_count=5&theme=solarized-light)
-
-
 ---
 
 
