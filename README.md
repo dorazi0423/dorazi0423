@@ -20,13 +20,6 @@
 
 ![DORAZI0423's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorazi0423&show_icons=true&count_private=true&hide=prs&theme=solarized-light)
 
----
-
-## 🌍 Let's Connect
-
-- **LinkedIn**: [DORAZI0423 on LinkedIn](https://www.linkedin.com/in/your-profile/)
-- **Twitter**: [@dorazi0423](https://twitter.com/dorazi0423)
-- **Blog**: [dorazi0423 Blog](https://your-blog.com)
 
 ---
 
