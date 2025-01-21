@@ -6,8 +6,8 @@
   
 ## 📘 Skills
 - **Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, Node.js, Express, Django, Flutter
-- **Tools**: Git, GitHub, VS Code, Figma, Postman, Docker
+- **Frameworks & Libraries**: React, Node.js
+- **Tools**: Git, GitHub, VS Code, Figma
 ---
 
 ## 🔧 Projects
@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&layout=compact&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&layout=compact&theme=solarized-light)
 
 ---
 
