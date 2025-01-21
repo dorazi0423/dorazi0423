@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=yellow&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=black" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FFEB00&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=black" />
 
 
 <!--
