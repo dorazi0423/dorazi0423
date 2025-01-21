@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=dorazi&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=90" />
 
 
 <!--
