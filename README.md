@@ -6,7 +6,7 @@
   
 ## 📘 Skills
 - **Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**
+- **Frameworks & Libraries**/n
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white) Node.js
 - **Tools**: Git, GitHub, VS Code, Figma
 ---
