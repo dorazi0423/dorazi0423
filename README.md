@@ -1,28 +1,17 @@
 ![DORAZI0423 GitHub Banner](https://capsule-render.vercel.app/api?type=venom&&color=0:BFECFF,25:CDC1FF,50:FFF6E3,100:FFCCEA&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=B99470)
 
 ## 🚀 About Me
-
-- 🔭 I’m currently working on **Web Development** and **Mobile Apps**.
-- 🌱 I’m learning **React.js**, **Node.js**, **Flutter**, and **Machine Learning**.
-- 👯 I’m looking to collaborate on **Open Source Projects** and **Web Apps**.
-- 🤔 Ask me about **JavaScript**, **HTML/CSS**, **Python**, and **Tech Trends**.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I love to **game**, **watch anime**, and **experiment with code**.
-
+- 🔭 프론트엔드 개발자
+  
 ## 📘 Skills
-
-- **Languages**: JavaScript, Python, HTML, CSS, SQL, TypeScript
+- **Languages**: JavaScript, HTML, CSS
 - **Frameworks & Libraries**: React, Node.js, Express, Django, Flutter
 - **Tools**: Git, GitHub, VS Code, Figma, Postman, Docker
 
 ## 🔧 Projects
+- [Project 1: 연극추천 웹사이트](https://github.com/dorazi0423/web-app) 
+  ⭐skill: JavaScript, HTML, CSS, bootstrap
 
-Here are some of my projects:
-
-- [Project 1: Web App](https://github.com/dorazi0423/web-app) - A simple web application using React and Node.js.
-- [Project 2: Mobile App](https://github.com/dorazi0423/mobile-app) - A mobile app built with Flutter and Firebase.
-- [Project 3: ML Project](https://github.com/dorazi0423/ml-project) - A machine learning project using Python and Scikit-learn.
 
 ## 📈 GitHub Stats
 
@@ -54,15 +43,11 @@ Here are some of my projects:
 
 ## 📫 How to Reach Me
 
-- **Email**: your-email@example.com
-- **Twitter**: [@dorazi0423](https://twitter.com/dorazi0423)
-- **LinkedIn**: [DORAZI0423 on LinkedIn](https://www.linkedin.com/in/your-profile/)
+- **Email**: dorazi0423@gmail.com
+- **velog**: [@dorazi0423](https://velog.io/@dorazi0423)
 
 ---
 
-### 📝 Quote
-
-> "The only way to do great work is to love what you do." – Steve Jobs
 
 <!--
 **dorazi0423/dorazi0423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
