@@ -6,9 +6,13 @@
   
 ## 📘 Skills
 - **Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**/n
-![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white) Node.js
+- **Frameworks & Libraries**: 
+  <span style="display: inline-flex; align-items: center; gap: 10px;">
+    ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white)
+    Node.js
+  </span>
 - **Tools**: Git, GitHub, VS Code, Figma
+
 ---
 
 ## 🔧 Projects
