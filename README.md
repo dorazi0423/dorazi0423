@@ -1,7 +1,9 @@
 ![DORAZI0423 GitHub Banner](https://capsule-render.vercel.app/api?type=venom&&color=0:BFECFF,25:CDC1FF,50:FFF6E3,100:FFCCEA&height=300&section=header&text=DORAZI0423%20GITHUB&fontSize=80&fontColor=B99470)
 
 ## 🚀 About Me
-- 🔭 프론트엔드 개발자
+- **프론트엔드 개발자**
+- **Email**: dorazi0423@gmail.com
+- **velog**: [@dorazi0423](https://velog.io/@dorazi0423)
 ---
   
 ## 📘 Skills
@@ -33,6 +35,8 @@
 ## 📈 GitHub Stats
 
 ![DORAZI0423's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dorazi0423&show_icons=true&count_private=true&hide=prs&theme=solarized-light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&langs_count=5&theme=solarized-light)
+
 
 
 ---
@@ -41,13 +45,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorazi0423&langs_count=5&theme=solarized-light)
 
-
----
-
-## 📫 How to Reach Me
-
-- **Email**: dorazi0423@gmail.com
-- **velog**: [@dorazi0423](https://velog.io/@dorazi0423)
 
 ---
 
