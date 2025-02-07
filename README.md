@@ -29,7 +29,7 @@
 ## 🔧 Projects 
 - [Project 1: 연극추천 웹사이트](https://dorazi0423.github.io/PlayFinder/)  
   ⭐skill: JavaScript, HTML, CSS, bootstrap
-<img src="https://github.com/user-attachments/assets/81b70700-b526-487a-b6d9-384cf2a63d61" width="200" height="150" />
+<img src="https://github.com/user-attachments/assets/81b70700-b526-487a-b6d9-384cf2a63d61" width="20" height="20" />
 
 
 ---
