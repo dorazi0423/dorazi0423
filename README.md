@@ -13,9 +13,9 @@
   ![html](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-  **Frameworks & Libraries**:  
+  <!--**Frameworks & Libraries**:  
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  -->
 
   **Tools**:  
   ![git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
